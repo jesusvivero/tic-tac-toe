@@ -1,0 +1,29 @@
+status: completed
+
+
+
+------ Description ------
+Aplicacion en ReactJS juego Tic Tac Toe (Triqui)
+Source: https://es.reactjs.org/tutorial/tutorial.html
+
+
+
+------ Uses ------
+javascript (ECMAScript 6)
+nodeJS
+HTML
+CSS
+
+
+
+------ Features ------
+ReactJS
+JSX
+Hooks (useState)
+Arrays (and Methods)
+
+
+
+
+------ Modules ------
+react
